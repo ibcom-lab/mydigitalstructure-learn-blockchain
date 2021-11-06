@@ -1,0 +1,24 @@
+{
+	"mydigitalstructure":
+	{
+		"hostname": "api.debug.mydigitalstructure.cloud", 
+		"logon": "example-learn@mydigitalstructure.cloud", 
+		"password": "",
+		"email": "support@mydigitalstructure.cloud",
+		"testing": 
+		{
+			"status": "true",
+			"showData": "true",
+			"break": "-"
+		},
+		"convert": "true"
+	},
+	"blockchain":
+	{
+		"blockfrost":
+		{
+			"uri": "https://blockfrost.io",
+			"_projectId": ""
+		}
+	}
+}	
